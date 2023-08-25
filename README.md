@@ -1,5 +1,5 @@
  <h1 align = "center">Bem-vindo(a) ao perfil do Gabriel Lobato 🚀</h1>
-   <img align="center" alt="HTML" height="550" width="1366" src="https://github.com/GabrieLobatoCabral/GabrieLobatoCabral/assets/113934416/cf5a1447-3298-4a73-8fa4-c34b4d3a52a9">
+   <img align="center" alt="HTML" height="450" width="1366" src="https://github.com/GabrieLobatoCabral/GabrieLobatoCabral/assets/113934416/cf5a1447-3298-4a73-8fa4-c34b4d3a52a9">
  <br> 
 
  <h2 align = "center">Tecnologias 🛠️</h2>
