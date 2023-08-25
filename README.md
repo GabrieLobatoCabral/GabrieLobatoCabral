@@ -1,6 +1,6 @@
  <h1 align = "center">Bem-vindo(a) ao perfil do Gabriel Lobato 🚀</h1>
-   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/GabrieLobatoCabral">
- <br>
+   <img align="center" alt="HTML" height="550" width="1366" src="https://github.com/GabrieLobatoCabral/GabrieLobatoCabral/assets/113934416/cf5a1447-3298-4a73-8fa4-c34b4d3a52a9">
+ <br> 
 
  <h2 align = "center">Tecnologias 🛠️</h2>
 <div align = "center">
@@ -31,5 +31,7 @@
   <a href="https://www.linkedin.com/in/gabriel-cabral-9b2b69193" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### Commits 
-![snake gif](https://github.com/GabrieLobatoCabral/GabrieLobatoCabral/blob/output/github-contribution-grid-snake.svg)
+<h3 align="center">Commits</h3>
+<p align="center">
+  <img src="https://github.com/GabrieLobatoCabral/GabrieLobatoCabral/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
