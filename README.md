@@ -20,9 +20,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLobatoCabral&layout=compact&langs_count=6&theme=radical"/>
     </div> 
 
-   <!--<div align = "center">
+   <div align = "center">
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GabrieLobatoCabral&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-   </div> -->
+   </div>
 
  <h2 align = "center">Redes Sociais ☎️</h2> 
 <div align = "center"> 
@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/gabriel-cabral-9b2b69193" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<h3 align="center">Commits</h3>
+<!--<h3 align="center">Commits</h3>
 <p align="center">
   <img src="https://github.com/GabrieLobatoCabral/GabrieLobatoCabral/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p>-->
